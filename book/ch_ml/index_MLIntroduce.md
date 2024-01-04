@@ -14,4 +14,4 @@ kernelspec:
 
 # 1. Khái quát Machine Learning
 
-_Đang viết_
+_Đang viế
